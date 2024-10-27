@@ -13,7 +13,7 @@ Hi there! I’m Abderrazzak Moussaid, a Data Science enthusiast and university s
    - **Description**: This analysis focuses on understanding wildfire patterns in Australia through data preprocessing, exploration, and feature analysis. The project involves extracting key insights from datasets to understand factors affecting wildfire frequency and intensity.
    - **Key Skills**: Data Cleaning, Data Analysis, Python
    - **Purpose**: To gain expertise in environmental data analysis and provide meaningful insights that could inform policy or further research.
-   - [Open File](https://github.com/abderrazzakM/abderrazzakM/blob/main/Analyzing_wildfire_activities_Australia.ipynbb)
+   - [Open File](https://github.com/abderrazzakM/abderrazzakM/blob/main/Analyzing_wildfire_activities_Australia.ipynb)
 
 ### 3. Decision Tree Classification - Drug Effectiveness Prediction
    - **Description**: In this project, I applied a **Decision Tree Classifier** to predict drug effectiveness based on patient data (age, sex, BP, cholesterol). The project highlights my understanding of supervised learning, data preprocessing, and model evaluation.
