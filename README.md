@@ -7,7 +7,7 @@ Hi there! I’m Abderrazzak Moussaid, a Data Science enthusiast and university s
    - **Description**: This project demonstrates my abilities to create detailed and insightful data visualizations using Python libraries such as **Matplotlib** and **Seaborn** for static data analysis, and **Folium** for mapping and geospatial analysis.
    - **Key Skills**: Data Visualization, Python, Matplotlib, Seaborn, Folium
    - **Purpose**: To showcase the power of visual representation in communicating complex data insights.
-   - [Open File](https://github.com/abderrazzakM/abderrazzakM/blob/main/visualizations_Matplotib_Seaborn_Folium.ipynb)
+   - [Open File](https://github.com/abderrazzakM/visualizations_Matplotib_Seaborn_Folium.ipynb)
 
 ### 2. Analyzing Wildfire Activities in Australia
    - **Description**: This analysis focuses on understanding wildfire patterns in Australia through data preprocessing, exploration, and feature analysis. The project involves extracting key insights from datasets to understand factors affecting wildfire frequency and intensity.
