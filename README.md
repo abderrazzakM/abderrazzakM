@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋
-Hi there! I’m Abderrazzak Moussaid, a Data Science enthusiast and university student passionate about Machine Learning, Data Analysis, and Visualization. At 19 years old, I am continuously working to expand my skills and knowledge in data science and analytics through real-world projects. My goal is to build expertise in data-driven solutions and, eventually, establish a competitive AI-driven company in financial analytics.
+Hi there! I’m Abderrazzak Moussaid, a Data Science enthusiast and university student passionate about Machine Learning, Data Analysis, and Visualization. I am continuously working to expand my skills and knowledge in data science and analytics through real-world projects. My goal is to build expertise in data-driven solutions and, eventually, establish a competitive AI-driven company in financial analytics.
 
 ## ⚙️ Technical Skills
 - **Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
