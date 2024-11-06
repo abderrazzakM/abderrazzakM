@@ -18,5 +18,4 @@ Hi there! I’m Abderrazzak Moussaid, a Data Science enthusiast and university s
 
 ## 📬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/abderrazzak-moussaid-513899247/)
-- [GitHub](https://github.com/abderrazzakM)
 - Email: abderrazzakmoussaid1@gmail.com
