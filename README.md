@@ -17,5 +17,4 @@ Hi there! I’m Abderrazzak Moussaid, a Data Science enthusiast and university s
 - Leverage my knowledge to build an AI-powered company in the financial analytics sector.
 
 ## 📬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/abderrazzak-moussaid-513899247/)
 - Email: abderrazzakmoussaid1@gmail.com
